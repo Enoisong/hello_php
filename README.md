@@ -85,7 +85,7 @@ Clone this repository to your desired folder:
 Install this project with: 
 
 ```sh
- cd www
+ cd hello_php
  install
 ```
 
@@ -110,7 +110,7 @@ To run the project execute the following command:
 ## 🔭 Future Features <a name="future-features"></a> 
  
 - **[Site Dynamics]**
-- **[Add user-interaction]**
+- **[Add more user-interaction]**
 
  
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -136,7 +136,7 @@ someone who enjoys coding! or still give me a ⭐️!
 <!-- ACKNOWLEDGEMENTS -->
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
  
--	Thanks to the Microverse team for the great curriculum.
+-	Thanks to the Alison team for the great curriculum.
 -	Thanks to the Code Reviewer(s) for the insightly feedbacks.
 -	A great thanks to my coding partner(s), morning session team 
     and standup team for their contributions.
